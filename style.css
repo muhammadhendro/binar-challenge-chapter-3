@@ -1,0 +1,46 @@
+.nav-item .nav-link {
+  color: white;
+  font-weight: normal;
+  margin-right: 1rem;
+}
+
+.nav {
+}
+
+.main-section {
+  background-image: url("assets/main-bg.jpg");
+  height: 100vh;
+  background-size: 100% 100%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.main-section-title {
+  font-size: 72px;
+
+  font-weight: bold;
+}
+
+.scroll-down {
+  position: absolute;
+  bottom: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.second-section {
+  background-image: url("assets/main-bg.jpg");
+  height: 100vh;
+  background-size: 100% 100%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
